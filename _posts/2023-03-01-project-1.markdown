@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2023-03-01
+img: Improve_Customer_Support_with_AI-powered_Voice_Services.png
+alt: image-alt
+project-date: March 2023
+client: IBM Skills Network
+category: Artificial Intelligence
+description: Improve Customer Support with AI-powered Voice Services - In this guided project, you will create a voice-enabled pizza-ordering application using embeddable AI and deploy it with Flask. Learn how to use Flask to deploy machine-learning models, allowing anyone to interact with them through an intuitive user interface and see the results for themselves. Don't let the challenge of training AI hold you back - our cutting-edge embeddable AI libraries can be seamlessly integrated into your enterprise applications. Link - https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0E8TEN+v1
+---

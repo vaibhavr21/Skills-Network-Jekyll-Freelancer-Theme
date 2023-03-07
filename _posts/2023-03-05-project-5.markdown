@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2023-03-05
+img: Build_your_own_Unbeatable_TicTacToe_AI.png
+alt: image-alt
+project-date: April 2014
+project-date: March 2023
+client: IBM Skills Network
+category: Artificial Intelligence
+description: Build your own Unbeatable TicTacToe AI - Everyone has played TicTacToe at least once in their life. Have you ever thought about creating your own AI TicTacToe player? Reinforcement Learning can help you with that. In this project, you will explore the basics of Reinforcement Learning and the Monte Carlo Method. You will learn how to train your own agent and create a highly-skilled AI player. This project is an interesting and challenging way to apply machine learning concepts to a well-known game. Link - https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0HAUEN+v1
+---

@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2023-03-04
+img: Know_Your_Worth_Build_A_Job_Salary_Estimator.png
+alt: image-alt
+project-date: March 2023
+client: IBM Skills Network
+category: Information Technology
+description: Know Your Worth, Build A Job Salary Estimator - Want to know how much a data science job pays? Use our cutting-edge model that utilizes text mining and BERT to estimate salary from job posting descriptions. Simply copy and paste the job description to get your estimate. Say goodbye to hours of research; our model will give you the information you need quickly and easily. Link - https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX086PEN+v1
+---

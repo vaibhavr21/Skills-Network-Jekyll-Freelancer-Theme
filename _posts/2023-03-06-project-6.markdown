@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2023-03-06
+img: Monte_Carlo_Reinforcement_Learning_for_Simple_Games.png
+alt: image-alt
+project-date: March 2023
+client: IBM Skills Network
+category: Artificial Intelligence
+description: Monte Carlo Reinforcement Learning for Simple Games - Have you ever thought about training your own recommendation system or building your own robot or creating your own chess AI that can beat even the most experienced player? Reinforcement Learning is what you need. In this project, you will explore the basics of Reinforcement Learning and Monte Carlo Method. You will learn about training your own agent to navigate and succeed in simple and complex games/environments. Discover better ways to train your agent and how to work with the environment. Link - https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0MNFRU+v1
+---

@@ -1,7 +1,7 @@
 # Site settings
 title: Freelancer
 email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
+url: https://github.com/Sheng-Kai-IBM/Skills-Network-Jekyll-Freelancer-Theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
@@ -40,20 +40,20 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/cognitiveclass
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/cognitiveclass
+  - title: linkedin
+    url: https://www.linkedin.com/school/cognitiveclass/
+  - title: youtube
+    url: https://www.youtube.com/user/TheBigDataUniversity
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Unionville
+  - line: Ontario L6G 1C7, Canada
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'

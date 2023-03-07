@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2023-03-02
+img: How_do_people_feel_about_a_product.png
+alt: image-alt
+project-date: March 2023
+client: IBM Skills Network
+category: Artificial Intelligence
+description: How do people feel about a product? Use AI to get the answer - Natural language processing (NLP) is an exciting machine learning application; IBM's Watson NLP library can greatly ease the development and deployment of NLP as part of your application. Amazon's 5-star rating system lacks feedback for both users and buyers. What about using NLP for helpful information? In this project, we will develop an application to classify Amazon users' emotions using Watson NLP. After conducting this project, developers will know how to build a web scraping, emotion classification embedded application. Link - https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX01V6EN+v1
+---
